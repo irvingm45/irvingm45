@@ -1,4 +1,4 @@
-##  Pinche Migue y Mau 🤌
+##  Pinche Migue y Mau 🤫
 
 <!--
 **irvingm45/irvingm45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
