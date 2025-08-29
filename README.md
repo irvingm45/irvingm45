@@ -1,4 +1,11 @@
-## Hi there 👋
+# Welocome to my **Github Profile** 💻🧠
+
+As my description says, I'm a competitive programming enthusiat, I've been problemsolving since I joined to ***Club de Algoritmia BUAP (CABUAP)*** 🎈 and it was around 2 years ago when I joined to this community ✅📅 
+
+## What will you find in my profile
+In my Github profile you will find some interesting projects that are involved in *web development* 💻 which is one of the areas that I'm interested, but also you will find projects that I made to prove myself in different areas 💪. 
+
+>However, I'm still learning 🌱 in what area I'm going to focus, untill that, I will do whatever I considerer **interesting/fun** to do.
 
 <!--
 **irvingm45/irvingm45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
