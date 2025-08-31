@@ -1,7 +1,7 @@
 # Hi, I'm Irvin, welcome to my **Github Profile** 💻🧠
-![](https://raw.githubusercontent.com/irvingaray10/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/irvingaray10/cf-stats/main/output/rating.svg)
-**Competitive Programmer at [CABUAP](https://www.instagram.com/cabuap.ig/)** 🎈
+![](https://raw.githubusercontent.com/irvingm45/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/irvingm45/cf-stats/main/output/rating.svg)
+<p>**Competitive Programmer at [CABUAP](https://www.instagram.com/cabuap.ig/)** 🎈</p>
 
 As my description says, I'm a competitive programming enthusiat, I've been problemsolving since I joined to ***Club de Algoritmia BUAP (CABUAP)*** 🎈 and it was around 2 years ago when I joined to this community ✅📅 
 
