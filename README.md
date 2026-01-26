@@ -12,4 +12,4 @@ In my Github profile you will find some interesting projects that are involved i
 >However, I'm still learning 🌱 in what area I'm going to focus, untill that, I will do whatever I considerer **interesting/fun** to do.
 
 ## Competitive programming stats 🏆 ##
-![](https://raw.githubusercontent.com/shiftMasking45/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/irvingm45/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
